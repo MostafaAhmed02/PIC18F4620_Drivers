@@ -9,7 +9,7 @@
 
 STD_RETURN_TYPE ret = E_NOT_OK;
 
-
+ 
 int main ()
 {
    ret = gpio_pin_direction_initialize(&PC0);
